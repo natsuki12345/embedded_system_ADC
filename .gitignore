@@ -1,0 +1,11 @@
+# 不推 example
+Data_Acquisition_example/
+
+# STM32CubeIDE build output
+**/Debug/
+**/Release/
+
+# IDE / OS files
+.DS_Store
+.metadata/
+*.launch
